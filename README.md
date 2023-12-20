@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://myportfolio-9c4ed.web.app/](https://myportfolio-9c4ed.web.app/)
 
 - 📫 How to reach me **mohamedelaouan8@gmail.com**
+- 📄 Know about my experiences [https://cvdesignr.com/p/654516eb71165](https://cvdesignr.com/p/654516eb71165)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
