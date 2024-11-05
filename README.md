@@ -10,8 +10,8 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://myportfolio-9c4ed.web.app/](https://myportfolio-9c4ed.web.app/) -->
 
-- 📫 How to reach me **mohamedelaouan8@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iU3LT-h5Z_GGSC_rm2LPY637eXoad1u8/view?usp=sharing](My_Resume)
+- 📫 How to reach me **mohamedelaouan6@gmail.com**
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1iU3LT-h5Z_GGSC_rm2LPY637eXoad1u8/view?usp=sharing' target="_blank"><b>My_Resume</b><a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
