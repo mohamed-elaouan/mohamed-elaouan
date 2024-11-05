@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm MOHAMED ELAOUAN</h1>
-<h3 align="center">FULL STACK DEVELOPPER React & Laravel & MySql & Firebase</h3>
+<h3 align="center">Machine Learning Engineer | Full-Stack Developer | Django & React Specialist </h3>
 <p align="center">
   <a href="https://github.com/ezitounioussama/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=500&size=22" /></a>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmachhoune" alt="Elaouan" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel & Angular**
+- 🌱 I’m currently learning Deep Leaning , Business Intelligent & BigData
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-9c4ed.web.app/](https://myportfolio-9c4ed.web.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://myportfolio-9c4ed.web.app/](https://myportfolio-9c4ed.web.app/) -->
 
 - 📫 How to reach me **mohamedelaouan8@gmail.com**
-- 📄 Know about my experiences [https://cvdesignr.com/p/654516eb71165](https://cvdesignr.com/p/654516eb71165)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iU3LT-h5Z_GGSC_rm2LPY637eXoad1u8/view?usp=sharing](My_Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
