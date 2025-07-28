@@ -22,7 +22,8 @@
 ### 📫 Contact Me
 
 - 💌 **Email**: mohamedelaouan6@gmail.com  
-- 📄 <a href='https://drive.google.com/file/d/1iU3LT-h5Z_GGSC_rm2LPY637eXoad1u8/view?usp=sharing' target="_blank"><b>View my Resume</b></a>  
+- 📄 <a href='https://drive.google.com/file/d/1iU3LT-h5Z_GGSC_rm2LPY637eXoad1u8/view?usp=sharing' target="_blank"><b>View my Resume for Software Engineering </b></a>  
+- 📄 <a href='https://www.canva.com/design/DAGTWX4QyYs/gExqIZDd-mfZF5QDQxIByA/view?utm_content=DAGTWX4QyYs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc775e27535' target="_blank"><b>View my Resume for Data Science Engineering </b></a>  
 - 🔗 <a href="https://linkedin.com/in/mohamed-elaouan/" target="blank">LinkedIn Profile</a>
 
 ---
